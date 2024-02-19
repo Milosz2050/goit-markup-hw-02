@@ -1,0 +1,127 @@
+body {
+  width: 1440px;
+  height: 3300px;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffff;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+
+.logo {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo:hover {
+  color: #404bbf;
+}
+.logo:focus {
+  color: #404bbf;
+}
+.logo-dark {
+  color: #2e2f42;
+}
+.logo-white {
+  color: #f4f4fd;
+}
+.nav-page {
+  list-style-type: none;
+}
+.nav-adress {
+  list-style-type: none;
+}
+.nav-adress-decoration {
+  text-decoration: none;
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  letter-spacing: 0.02em;
+}
+.nav-adress-decoration:hover {
+  color: #404bbf;
+}
+.nav-adress-decoration:focus {
+  color: #404bbf;
+}
+
+.nav-page-decoration {
+  text-decoration: none;
+  color: #2e2f42;
+  font-size: 16px;
+}
+.main-text {
+  background-color: #2e2f42;
+}
+
+h1 {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: white;
+}
+.button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button:hover {
+  color: #404bbf;
+}
+.button:focus {
+  color: #404bbf;
+}
+
+.section-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text {
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.skills {
+  list-style-type: none;
+}
+.section-team {
+  background-color: #f4f4fd;
+}
+.teammate-card {
+  list-style-type: none;
+  background-color: white;
+}
+.portfolio-card {
+  list-style-type: none;
+}
+footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: #f4f4fd;
+}
+.section-name {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
